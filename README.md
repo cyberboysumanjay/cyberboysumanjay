@@ -1,16 +1,12 @@
 ### Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumanjay)
+[![twitter badge](https://img.shields.io/badge/@Cyberboysj-30302f?style=flat&logo=twitter)](https://twitter.com/cyberboysj)
+[![telegram badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=telegram)](https://t.me/cyberboysumanjay)
 
-<!--
-**cyberboysumanjay/cyberboysumanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Python, Flask Projects
+- 🌱 I’m currently learning Javascript and playing Table Tennis
+- 👯 I’m looking to collaborate on Projects and Hackathons
+- 🤔 I’m looking for help with Open Source
+- 💬 Ask me about anything
+- 📫 How to reach me: Telegram - [@cyberboysumanjay](https://t.me/cyberboysumanjay)
+- ⚡ Fun fact: I am a Noobie
