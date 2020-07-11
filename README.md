@@ -10,3 +10,5 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Telegram - [@cyberboysumanjay](https://t.me/cyberboysumanjay)
 - ⚡ Fun fact: I am a Noobie
+
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=cyberboysumanjay&show_icons=true&hide_border=true)
