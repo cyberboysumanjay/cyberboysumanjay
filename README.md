@@ -13,4 +13,4 @@
 - 📫 How to reach me: Telegram - [@cyberboysumanjay](https://telegram.dog/cyberboysumanjay)
 - ⚡ Fun fact: I am a Noobie
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberboysumanjay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberboysumanjay&theme=radical&show_icons=true)
