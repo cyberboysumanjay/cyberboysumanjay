@@ -1,4 +1,4 @@
-## Hello 👋🏻 
+## Namaste 🙏🏻
 
 
 ### Available 👇
@@ -35,8 +35,9 @@
 ### About 🙋🏻‍♂️
 ```python
 name = "Sumanjay"
-age = 22
 who_i_am = ['Developer','Coder','Engineer','NITian','Noobie']
+age = 22
+religion = "🇮🇳"
 ```
 
 ### Skills 👨‍💻
@@ -59,4 +60,4 @@ who_i_am = ['Developer','Coder','Engineer','NITian','Noobie']
 
 ### Stats ⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberboysumanjay&theme=radical&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cyberboysumanjay&theme=cobalt&show_icons=true)
