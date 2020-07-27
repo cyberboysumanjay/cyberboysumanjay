@@ -30,7 +30,7 @@
 </br>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/&title=Profile%20Views)
 
 ### About 🙋🏻‍♂️
 ```python
