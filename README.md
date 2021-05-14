@@ -32,6 +32,9 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/&title=Profile%20Views)
 
+[![Telegram Channel](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsjprojects)](https://telegram.dog/sjprojects)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsumanbots)](https://telegram.dog/sumanbots)
+
 ### About 🙋🏻‍♂️
 ```python
 name = "Sumanjay"
