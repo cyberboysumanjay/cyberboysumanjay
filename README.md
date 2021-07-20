@@ -18,7 +18,7 @@
    <a href="https://www.quora.com/profile/Sumanjay">
   <img align="left" alt="Sumanjay Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
   </a>
-  <a href="https://visi.tk/sumanjay">
+  <a href="https://abowt.tk/sumanjay">
     <img align="left" alt="Sumanjay Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
   <a href="https://telegram.dog/cyberboysumanjay">
