@@ -18,7 +18,7 @@
    <a href="https://www.quora.com/profile/Sumanjay">
   <img align="left" alt="Sumanjay Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
   </a>
-  <a href="https://abowt.tk/sumanjay">
+  <a href="https://cyberboysumanjay.github.io">
     <img align="left" alt="Sumanjay Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/vercel.svg" />
   </a>
   <a href="https://telegram.dog/cyberboysumanjay">
@@ -39,7 +39,7 @@
 ```python
 name = "Sumanjay"
 who_i_am = ['Developer','Coder','Engineer','NITian','Noobie']
-age = 22
+age = 25
 religion = "🇮🇳"
 ```
 
